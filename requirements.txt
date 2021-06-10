@@ -85,7 +85,7 @@ firebase-admin==4.4.0
 fix-yahoo-finance==0.0.22
 Flask==1.1.2
 flatbuffers==1.12
-folium==0.8.3
+folium
 fpdf==1.7.2
 future==0.16.0
 gast==0.3.3
@@ -138,7 +138,7 @@ imageio==2.4.1
 imagesize==1.2.0
 imbalanced-learn==0.4.3
 imblearn==0.0
-imgaug==0.2.9
+imgaug==0.2.5
 importlib-metadata==3.7.2
 importlib-resources==5.1.2
 imutils==0.5.4
@@ -153,7 +153,7 @@ ipython-sql==0.3.9
 ipywidgets==7.6.3
 itsdangerous==1.1.0
 jax==0.2.10
-
+jaxlib==0.1.67+cuda101
 jdcal==1.4.1
 jedi==0.18.0
 jieba==0.42.1
@@ -164,7 +164,7 @@ jsonpatch==1.32
 jsonpointer==2.1
 jsonschema==2.6.0
 jupyter==1.0.0
-jupyter-client==5.3.5
+jupyter-client
 jupyter-console==5.2.0
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
@@ -356,11 +356,11 @@ thinc==7.4.0
 tifffile==2021.3.17
 toml==0.10.2
 toolz==0.11.1
-
+torch==1.8.1+cu101
 torchfile==0.1.0
 torchsummary==1.5.1
-torchtext==0.9.0
-
+torchtext==0.9.1
+torchvision==0.9.1+cu101
 tornado==5.1.1
 tqdm==4.41.1
 traitlets==5.0.5
@@ -381,7 +381,7 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wordcloud==1.5.0
 wrapt==1.12.1
-xarray==0.15.1
+xarray
 xgboost==0.90
 xkit==0.0.0
 xlrd==1.1.0
